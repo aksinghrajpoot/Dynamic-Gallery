@@ -12,7 +12,7 @@ const images = [];
 const username = 'aksinghrajpoot';
 const repository = 'Dynamic-Gallery';
 const branch = 'master';
-token = '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'; // Your GitHub Token
+let token = mytoken; // Your GitHub Token
 
 const headers = {
     'Authorization': `token ${token}`
