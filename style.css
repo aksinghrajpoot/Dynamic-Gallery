@@ -12,6 +12,7 @@
 
 .custom-loading {
     position: absolute;
+    margin: 10px 0;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
